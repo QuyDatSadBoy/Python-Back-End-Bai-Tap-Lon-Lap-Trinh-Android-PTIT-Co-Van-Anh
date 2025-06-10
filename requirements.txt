@@ -1,0 +1,71 @@
+# FastAPI and Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+gunicorn==21.2.0
+
+# HTTP Client
+httpx==0.25.2
+
+# Database
+mysql-connector-python==8.2.0
+
+# AI/ML Libraries
+transformers==4.35.2
+torch==2.1.1
+torchvision==0.16.1
+torchaudio==0.16.1
+
+# LangChain and RAG
+langchain==0.0.350
+langchain-community==0.0.1
+faiss-cpu==1.7.4
+
+# Embeddings and NLP
+sentence-transformers==2.2.2
+huggingface-hub==0.19.4
+
+# Data Processing
+pandas==2.1.4
+numpy==1.24.3
+
+# Text Processing
+nltk==3.8.1
+tokenizers==0.15.0
+
+# Environment and Configuration
+python-dotenv==1.0.0
+pydantic==2.5.0
+pydantic-settings==2.1.0
+
+# Utilities
+python-multipart==0.0.6
+jinja2==3.1.2
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dateutil==2.8.2
+
+# Logging and Monitoring
+structlog==23.2.0
+
+# CORS and Security
+python-cors==0.2.0
+
+# Development and Testing (optional)
+pytest==7.4.3
+pytest-asyncio==0.21.1
+httpx==0.25.2
+black==23.11.0
+flake8==6.1.0
+isort==5.12.0
+
+# Performance
+aiofiles==23.2.1
+orjson==3.9.10
+
+# Optional: GPU support for PyTorch (uncomment if using CUDA)
+# torch==2.1.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html
+# torchvision==0.16.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html
+# torchaudio==0.16.1+cu121 -f https://download.pytorch.org/whl/torch_stable.html
+
+# Optional: Better FAISS performance (uncomment if needed)
+# faiss-gpu==1.7.4 
