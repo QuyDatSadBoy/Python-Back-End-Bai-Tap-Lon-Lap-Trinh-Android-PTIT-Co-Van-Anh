@@ -290,7 +290,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Liên hệ
 
 - **Developer**: quydat09
-- **Email**: [your-email@example.com]
+- **Email**: [dattq.b21cn222@stu.ptit.edu.vn]
 - **Project Link**: [https://github.com/quydat09/python_android]
 
 ## 🙏 Acknowledgments
